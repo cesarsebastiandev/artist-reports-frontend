@@ -1,7 +1,7 @@
 
 ## Introducción
 
-##Este es el repositorio oficial para estos 2 tutoriales, debes verlos en este orden:
+## Este es el repositorio oficial para estos 2 tutoriales, debes verlos en este orden:
 
 Video uno: [Genera Reportes PDF desde el Backend con Laravel + Angular | Curso Completo Paso a Paso](https://youtu.be/Pg8tO6Q-CjY?si=Lkv9LwveaL2HrWkm) 
 
